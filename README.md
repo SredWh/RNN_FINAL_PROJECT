@@ -13,4 +13,5 @@ bash run_evaluate.sh model_vit_base_patch16_224-method_TGR
 評估對抗式樣本對cnn模型的攻擊率
 python evaluate_cnn.py
 
-Code refer to: Towards Transferable Adversarial Attacks on Vision Transformers , tf_to_torch_model and TGR
+Code refer to: [Towards Transferable Adversarial Attacks on Vision Transformers ](https://github.com/zhipeng-wei/PNA-PatchOut), [tf_to_torch_model](https://github.com/ylhz/tf_to_pytorch_model) and [TGR](https://github.com/jpzhang1810/TGR)
+
